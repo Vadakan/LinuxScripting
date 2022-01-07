@@ -1,6 +1,6 @@
 # LinuxScripting
 ========================================================================================
-# Check for pattern irrespective of case number and get the lines
+# Check for pattern irrespective of Alphabhet case(lower/upper) and get the lines
 
 grep -i "dummy" new-1.txt 
 
