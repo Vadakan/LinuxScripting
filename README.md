@@ -127,3 +127,34 @@ ls -la gives even hidden files (files started with dot(.))
 total 9 Permissions -- Fisrt command user 3 permissions, next group user 3 permission, next other users - 3 permissions
 
 
+For the below file, Current used has only read and write permissions.group user has only read permission. Other user has only read permission
+
+
+![image](https://user-images.githubusercontent.com/80065996/148651218-c7a3e941-0ea0-4ebb-9392-a19c9abaa612.png)
+
+Removing write permission for User (use -u flag to indicate user and -w to remove the permission)
+
+![image](https://user-images.githubusercontent.com/80065996/148652211-4e668c21-c003-4f93-b6c6-b8f987989467.png)
+
+**chmod ugo+w Myfile.txt - assign write permission to all user(u),group(g),others(o) **
+
+**chmod u-w Myfile.txt - remove write permission to only user(u)**
+
+**chmod can be done by using numbers:**
+r - 4 (read)
+w - 2 (write)
+x - 1 (execute)
+
+**user - rw - 4+2=6 (to give read and write permission to the user(u))**
+
+**user - wx - 2+1=3 (to give write and execute permission to user)**
+
+**user - r - 4=4 (to give only read permission to the user)**
+
+**below image i gave 777 -> user(7==> 4+2+1), group(7 ==> 4+2+1), other(7 == 4+2+1)**
+
+![image](https://user-images.githubusercontent.com/80065996/148652850-076c0c0c-c905-429f-8b8d-c00a1ff3bae5.png)
+
+
+
+
