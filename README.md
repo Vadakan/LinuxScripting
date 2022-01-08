@@ -94,3 +94,12 @@ grep -n "dummy" new-1.txt
 ![image](https://user-images.githubusercontent.com/80065996/148589937-e59439c6-33fb-4f8d-9640-66bc4dd621f0.png)
 
 
+**"Man" command :**
+
+It will display the helper page for the command we are having doubt
+
+![image](https://user-images.githubusercontent.com/80065996/148650686-d2a7cd07-d326-463e-b415-954bc8997d7c.png)
+
+
+![image](https://user-images.githubusercontent.com/80065996/148650670-d41c712e-1a14-4b30-9125-0baea5778fb0.png)
+
