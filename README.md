@@ -103,3 +103,27 @@ It will display the helper page for the command we are having doubt
 
 ![image](https://user-images.githubusercontent.com/80065996/148650670-d41c712e-1a14-4b30-9125-0baea5778fb0.png)
 
+
+**CHMOD and CHOWN command for file related access settings:**
+
+![image](https://user-images.githubusercontent.com/80065996/148650880-bdac5768-74ac-4a55-9689-d0ce393778f5.png)
+
+![image](https://user-images.githubusercontent.com/80065996/148650924-ac54b5bd-20f9-438c-8e04-b2efdf91fb9e.png)
+
+First character (-) denoted the file
+First character (d) denotes directory
+Remaining 9 characters denoted access related things
+
+ls -la gives even hidden files (files started with dot(.))
+
+![image](https://user-images.githubusercontent.com/80065996/148651005-0c91f75b-0ee8-4f63-87ba-6616e6cde8cb.png)
+
+![image](https://user-images.githubusercontent.com/80065996/148651049-76928d7b-9731-4760-bef7-e380bcb6c0fa.png)
+
+**First 3 digits -- based on user groups (read,write or execute (r,w,x))**
+
+![image](https://user-images.githubusercontent.com/80065996/148651119-3fac7703-d742-4eb4-b838-4f13ce1ddff5.png)
+
+total 9 Permissions -- Fisrt command user 3 permissions, next group user 3 permission, next other users - 3 permissions
+
+
