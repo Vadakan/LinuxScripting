@@ -156,5 +156,42 @@ x - 1 (execute)
 ![image](https://user-images.githubusercontent.com/80065996/148652850-076c0c0c-c905-429f-8b8d-c00a1ff3bae5.png)
 
 
+**WHOAMI - command to check the user logged in currently**
+
+![image](https://user-images.githubusercontent.com/80065996/148686053-e90d026d-5fa7-4ba6-aef3-da9e229ff463.png)
+
+**We can set the password to current user by below command:**
+
+
+![image](https://user-images.githubusercontent.com/80065996/148686075-5c31aca3-f48c-49cd-a6a7-977337f7cbc1.png)
+
+**Add a user to your linux operating system:**
+
+![image](https://user-images.githubusercontent.com/80065996/148686127-11f7be0f-4914-4d2f-bba4-d6619360d5a9.png)
+
+
+'Less' command := used to display contents of file one page at a time. Press button 'q' to come out of the 'Less' commmand
+
+![image](https://user-images.githubusercontent.com/80065996/148686588-ee4691c7-ddbd-4d65-af94-40c653f12386.png)
+
+![image](https://user-images.githubusercontent.com/80065996/148686638-8bd6103b-3250-493b-be8c-4ba031999fba.png)
+
+
+![image](https://user-images.githubusercontent.com/80065996/148686651-8a84557a-7f37-4da1-ab8c-3830ebed1740.png)
+
+**Press 'q' to come out:**
+
+**/etc/passwd  -- folder contains user details of a linux machine**
+
+![image](https://user-images.githubusercontent.com/80065996/148686729-0ed0cd64-04ae-4134-bfbd-77cf07b29794.png)
+
+
+![image](https://user-images.githubusercontent.com/80065996/148686743-da262993-4cfc-4fe6-a1d2-b43521d64c84.png)
+
+
+![image](https://user-images.githubusercontent.com/80065996/148686796-74f75998-b198-444f-9eb3-6ca34d168183.png)
+
+
+
 
 
