@@ -227,3 +227,33 @@ x - 1 (execute)
 **Display paricular row and column**
 
 ![image](https://user-images.githubusercontent.com/80065996/148690505-c54d60fe-d974-406f-9627-fac054369577.png)
+
+**to find free space in linux machine**
+
+![image](https://user-images.githubusercontent.com/80065996/148690588-93084bfe-3fbc-43cf-a50d-5de88fc89ec1.png)
+
+use above command in pipeline with awk command
+
+![image](https://user-images.githubusercontent.com/80065996/148690827-3dc32569-40b5-4a80-8365-cdbc4285529f.png)
+
+![image](https://user-images.githubusercontent.com/80065996/148690841-9a6eaabe-371c-4975-8771-eea866809b33.png)
+
+
+**AWK command for .CSV files:**
+
+![image](https://user-images.githubusercontent.com/80065996/148691143-56bbd741-cf0a-4193-b675-540aea2abeab.png)
+
+printing 1st column displays the whole record
+printing 2nd column displays the empty record because** its not able to recognize the column in .CSV file**
+
+
+![image](https://user-images.githubusercontent.com/80065996/148691160-14be6052-6668-4a51-91bc-3e910695c5b9.png)
+
+
+"captial F" (-F) to identify separators
+
+![image](https://user-images.githubusercontent.com/80065996/148691258-209aaf7b-412b-4958-8deb-fb579b0851ea.png)
+
+
+![image](https://user-images.githubusercontent.com/80065996/148691280-840c4a31-f36e-4c64-b744-cc8c5153e9cd.png)
+
