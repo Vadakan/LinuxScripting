@@ -192,6 +192,38 @@ x - 1 (execute)
 ![image](https://user-images.githubusercontent.com/80065996/148686796-74f75998-b198-444f-9eb3-6ca34d168183.png)
 
 
+**Below file has 'user' and 'group' tagged to 'lxd'. 'lxd' user and group is available in the system. we checked this by command 'ls /etc/passwd'**
 
 
 
+![image](https://user-images.githubusercontent.com/80065996/148688720-7e27830d-de41-468b-bcc7-148b61c6d914.png)
+
+
+**we are changing now with chown command
+**
+
+**we changed the user and group of "index.js" file from 'lxd' to 'root:root' root user is available in root group.**
+
+![image](https://user-images.githubusercontent.com/80065996/148688848-a5d8107f-e5c9-49b0-a81f-bc9ddf428ece.png)
+
+**AWK command:**
+
+**File content:**
+
+![image](https://user-images.githubusercontent.com/80065996/148690081-086cb2d6-c009-4e97-9988-10e597ad32fd.png)
+
+**{print} will print all the data in the file**
+
+![image](https://user-images.githubusercontent.com/80065996/148690093-715f3654-ce9e-4716-a1c1-6bdeb31cfc3c.png)
+
+**{print $2} will display only second column in the file**
+
+![image](https://user-images.githubusercontent.com/80065996/148690127-bcbeb8d6-374a-4886-8371-d8043b02cdec.png)
+
+**display the particular row in the file**
+
+![image](https://user-images.githubusercontent.com/80065996/148690358-cc8e82d9-69b9-48a0-8fa9-987fd8899ebb.png)
+
+**Display paricular row and column**
+
+![image](https://user-images.githubusercontent.com/80065996/148690505-c54d60fe-d974-406f-9627-fac054369577.png)
