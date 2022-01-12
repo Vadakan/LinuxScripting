@@ -257,3 +257,55 @@ printing 2nd column displays the empty record because** its not able to recogniz
 
 ![image](https://user-images.githubusercontent.com/80065996/148691280-840c4a31-f36e-4c64-b744-cc8c5153e9cd.png)
 
+
+# Pipeline using Linux:
+
+# PWD has below manny files
+
+![image](https://user-images.githubusercontent.com/80065996/149188762-6cde0000-b8a7-469a-a1c4-fbd124a7395b.png)
+
+
+# first command will pass the reslt to second command in the pipeline and second command will pass the filered results to third and go on
+
+![image](https://user-images.githubusercontent.com/80065996/149189494-ce2b1ec3-7072-414e-8e3e-734de6afb94d.png)
+
+
+![image](https://user-images.githubusercontent.com/80065996/149189599-6ee7bb39-9b45-49ac-bec5-b11a4b02fdf7.png)
+
+# Press q to quit
+
+another example for pipeline
+
+![image](https://user-images.githubusercontent.com/80065996/149189700-b1140c87-bb84-4cf2-a0dd-fc59ac50e36f.png)
+
+# Another example
+
+ ![image](https://user-images.githubusercontent.com/80065996/149190981-3d0bc694-0132-46bf-862d-c3f5b0cf4211.png)
+
+# grep works only for files and not for directory
+
+# how to see only uniq values in the file
+
+**below file has duplicate value for 'row4'**
+
+![image](https://user-images.githubusercontent.com/80065996/149191887-44ebef4b-d46f-47de-a85d-c7e1bed93914.png)
+
+from the current directory, take all the files with pattern 'dups.txt' and find only unique values from the file by printing page by page 
+
+
+![image](https://user-images.githubusercontent.com/80065996/149192559-2c653662-f6d0-4106-b3f2-c436d1aaffc7.png)
+
+
+
+![image](https://user-images.githubusercontent.com/80065996/149192232-1bf45063-74fa-45b8-947c-a106fa6bd22b.png)
+
+
+![image](https://user-images.githubusercontent.com/80065996/149192607-b34980e4-8da8-43ac-89c6-9a0afe25419d.png)
+
+
+
+
+
+
+
+
