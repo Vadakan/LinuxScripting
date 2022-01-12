@@ -305,7 +305,42 @@ from the current directory, take all the files with pattern 'dups.txt' and find 
 
 
 
+# to get only duplicate row in a file
+
+![image](https://user-images.githubusercontent.com/80065996/149193338-2c11ccf9-cad2-444e-b30d-6ddc240fdc5d.png)
+
+# how to get line count byte count from a file
+
+![image](https://user-images.githubusercontent.com/80065996/149193672-1fef7d77-7e2f-44bb-84b4-74da8b3a152a.png)
+
+# first value is line count, second value is a byte count
+
+# sort command will sort the rows in file in asceding order and keeps duplicated as well
+
+![image](https://user-images.githubusercontent.com/80065996/149194065-40b1f955-a4cf-4326-85a0-13dd2336e5bd.png)
+
+# Another example for pipeline
+
+![image](https://user-images.githubusercontent.com/80065996/149194411-5b3591e0-6ba4-4cd9-a342-c8ab81948179.png)
 
 
+# how to go to root directory
+
+**forward slash(/) defines the root directory**
+
+![image](https://user-images.githubusercontent.com/80065996/149194858-05658704-aef8-4548-9cf6-df141460aa8a.png)
+
+**Linux directoy structure**
+
+
+![image](https://user-images.githubusercontent.com/80065996/149195719-d8e38db6-b22e-464e-9c5e-b6f37b96a0f0.png)
+
+# nuance ==> went inside bin
+
+![image](https://user-images.githubusercontent.com/80065996/149196740-d68aa3c5-104a-4d00-8fa2-d77ec78d9e34.png)
+
+# fropm bin you moved directly to another folder under root
+
+![image](https://user-images.githubusercontent.com/80065996/149196926-a34caac8-c55b-4639-96a4-5307f1efd6b9.png)
 
 
