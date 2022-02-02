@@ -10,6 +10,10 @@
 # Shebang command
 
 
+![image](https://user-images.githubusercontent.com/80065996/152122331-bd7bb7d8-721d-4ece-af71-f9cf08b40f17.png)
+
+
+
 ![image](https://user-images.githubusercontent.com/80065996/152121889-f5bf6359-60ed-4594-a4e1-261124ae48ce.png)
 
 
@@ -17,6 +21,38 @@
 
 
 ![image](https://user-images.githubusercontent.com/80065996/152122013-5891f400-b56b-42f7-8600-556e3334d0be.png)
+
+
+# just given some random commands inside the scripting file and ran this
+
+
+![image](https://user-images.githubusercontent.com/80065996/152123084-907d054f-839e-4b93-b5a6-447e41ad7bd6.png)
+
+
+# Variable declaration in linux script
+
+
+![image](https://user-images.githubusercontent.com/80065996/152124869-fb92048c-0bfb-49a6-8bbf-7ea3ea0b8a67.png)
+
+
+# result:
+
+
+![image](https://user-images.githubusercontent.com/80065996/152124903-0c99c1d2-226d-4ed7-bf04-6e743ab77a09.png)
+
+
+
+# result
+# new file created and input some data into it
+
+
+# command to input data into the file 
+
+# command : echo "hai hello how are you" > new-1.txt 
+# the above command created a new file 'new-1.txt' and input the values "hai hello how are you" into the file
+
+
+![image](https://user-images.githubusercontent.com/80065996/152123148-e7d1e1ea-c166-4000-a305-77562a316e73.png)
 
 
 
