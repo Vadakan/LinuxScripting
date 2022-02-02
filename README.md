@@ -1,5 +1,25 @@
 # LinuxScripting
 ========================================================================================
+
+# How to find type of shell we are using in our system. This command will be useful when we mention the first statement in our shell scripting
+
+
+![image](https://user-images.githubusercontent.com/80065996/152121203-e62be940-e3c8-4b89-b003-6e081953cfdc.png)
+
+
+# Shebang command
+
+
+![image](https://user-images.githubusercontent.com/80065996/152121889-f5bf6359-60ed-4594-a4e1-261124ae48ce.png)
+
+
+# Result - how to run that shell script
+
+
+![image](https://user-images.githubusercontent.com/80065996/152122013-5891f400-b56b-42f7-8600-556e3334d0be.png)
+
+
+
 # Check for pattern irrespective of Alphabhet case(lower/upper) and get the lines
 
 grep -i "dummy" new-1.txt 
