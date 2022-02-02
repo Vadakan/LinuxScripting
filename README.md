@@ -17,7 +17,7 @@
 ![image](https://user-images.githubusercontent.com/80065996/152121889-f5bf6359-60ed-4594-a4e1-261124ae48ce.png)
 
 
-# Result - how to run that shell script
+# Result - how to run that shell script 
 
 
 ![image](https://user-images.githubusercontent.com/80065996/152122013-5891f400-b56b-42f7-8600-556e3334d0be.png)
@@ -39,6 +39,163 @@
 
 
 ![image](https://user-images.githubusercontent.com/80065996/152124903-0c99c1d2-226d-4ed7-bf04-6e743ab77a09.png)
+
+
+# Read value from user
+
+
+![image](https://user-images.githubusercontent.com/80065996/152147897-39b2480e-fa54-47f8-be32-31f783b6bf0a.png)
+
+
+# running the script 
+# waiting for the user input
+
+
+![image](https://user-images.githubusercontent.com/80065996/152148164-a1bb2144-341b-46ea-9ded-6e036b5c73a9.png)
+
+
+![image](https://user-images.githubusercontent.com/80065996/152148238-d3301c05-5df1-43c1-89f7-3831e975feaa.png)
+
+
+# we even no need to decalre the variable while getting input from user
+# we can simply mention the name of the variable and once you input the value, it will be auto stored in it
+
+
+![image](https://user-images.githubusercontent.com/80065996/152151546-b47e7b27-2789-499b-9595-bd1d68b2bd2e.png)
+
+
+# result:
+
+
+![image](https://user-images.githubusercontent.com/80065996/152151632-7b44cd0f-8ca1-44b6-bcac-1df25e943e43.png)
+
+
+# Reading input from user and validating
+
+
+![image](https://user-images.githubusercontent.com/80065996/152153040-be59723f-efc8-443c-82fc-d2703f9747a3.png)
+
+
+# result:
+
+
+![image](https://user-images.githubusercontent.com/80065996/152153238-3508f2c8-a49f-48b1-9f65-b9ed13c31b80.png)
+
+
+# Comparision operators (logical operator - gt,eq,lt,ne,ge,le)
+
+
+![image](https://user-images.githubusercontent.com/80065996/152187743-281b83ed-d826-4958-92e8-6d8f1d96c4a3.png)
+
+
+# Result:
+
+
+![image](https://user-images.githubusercontent.com/80065996/152188161-1551e223-94e2-4b79-97aa-9bc3aa2db389.png)
+
+
+# File operations
+# Created a file called 'new-2.txt' for our purpose
+
+
+![image](https://user-images.githubusercontent.com/80065996/152190530-0a7d5070-aa93-4523-95ae-7a22a89903d6.png)
+
+
+![image](https://user-images.githubusercontent.com/80065996/152191499-b6ce329b-4e02-4f98-b026-48b98feb8f36.png)
+
+
+# Result:
+
+
+![image](https://user-images.githubusercontent.com/80065996/152191595-7cfd67de-165f-4e62-b924-3381183623d6.png)
+
+
+# flag -e
+
+
+![image](https://user-images.githubusercontent.com/80065996/152191988-17ba64b6-9798-445e-ac8f-f7a143107450.png)
+
+
+![image](https://user-images.githubusercontent.com/80065996/152192120-ce022d00-7aa7-4f12-85af-840466fa2385.png)
+
+
+# flag -d to check directory
+
+
+![image](https://user-images.githubusercontent.com/80065996/152192363-c68e6b6b-f7a6-423a-b951-4ea0d41fb4be.png)
+
+
+![image](https://user-images.githubusercontent.com/80065996/152192667-40064344-d593-435d-9001-156b4e93761e.png)
+
+
+# flag -r to check file is readable
+
+
+![image](https://user-images.githubusercontent.com/80065996/152192908-408f1426-d962-4308-83fc-4881e57f09a4.png)
+
+
+![image](https://user-images.githubusercontent.com/80065996/152192963-84feaff8-86de-4518-ba76-d4751bd29f36.png)
+
+
+# flag -s to check size of file is non-zero
+
+
+![image](https://user-images.githubusercontent.com/80065996/152193494-e90440c9-62de-45a1-b606-de3a4bcd8560.png)
+
+
+![image](https://user-images.githubusercontent.com/80065996/152193581-6c237607-a709-4a1a-a524-ac6307a9648f.png)
+
+
+# flag -w to check file is writable
+
+
+![image](https://user-images.githubusercontent.com/80065996/152194536-5d25c290-d282-4a53-81cc-f956af5155b8.png)
+
+
+![image](https://user-images.githubusercontent.com/80065996/152194587-13a022a8-c0f3-43b7-9b44-24f474efed9b.png)
+
+
+# flag -u to check user id is set in a file
+
+
+![image](https://user-images.githubusercontent.com/80065996/152195187-12d5abac-1ce1-4788-adcc-34cb0f822f13.png)
+
+
+![image](https://user-images.githubusercontent.com/80065996/152195276-6bf2d834-7abc-41e4-83c6-74463be9acb0.png)
+
+
+# flag -x to check file is executable
+
+
+![image](https://user-images.githubusercontent.com/80065996/152195676-85dbca4c-59b4-4460-b11e-636795de3f07.png)
+
+
+![image](https://user-images.githubusercontent.com/80065996/152195729-365c3f5a-641c-4dea-b207-0b2ab6f513e9.png)
+
+
+# Case statement
+# Permission denied issue. we have to use 'chmod' command 
+
+
+![image](https://user-images.githubusercontent.com/80065996/152201890-ab96f514-8dd4-4792-8b40-4665e7d64d6e.png)
+
+
+![image](https://user-images.githubusercontent.com/80065996/152203248-5aa670c8-7066-454c-9570-0ad7ba9f6f32.png)
+
+
+![image](https://user-images.githubusercontent.com/80065996/152203379-687667cb-b656-4c6b-8577-2761e79f0028.png)
+
+
+![image](https://user-images.githubusercontent.com/80065996/152203458-502b0ff4-1998-4479-991f-c0b09a693460.png)
+
+
+# For loop. Notice words from the string is printing one by one in the same line
+
+
+![image](https://user-images.githubusercontent.com/80065996/152205288-6358fa5b-3cfb-4112-971a-2fda0f7cb79f.png)
+
+
+![image](https://user-images.githubusercontent.com/80065996/152205348-46159755-acd0-487e-a0a3-5e2cc1ec80e5.png)
 
 
 
